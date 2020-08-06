@@ -1,0 +1,57 @@
+etback.xml
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+<corners
+
+    android:radius="50dp"/>
+
+    <!--        Made By Divyam Oza(OD)-->
+    <!--        -->
+
+    <solid
+        android:color="#feaaae"/>
+
+    <!--        Made By Divyam Oza(OD)-->
+    <!--        -->
+
+</shape>
+
+
+
+
+btnback.xml
+
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+<corners
+    android:radius="50dp"
+    />
+
+    <!--        Made By Divyam Oza(OD)-->
+    <!--        -->
+
+    <solid
+        android:color="@android:color/white"/>
+
+    <!--        Made By Divyam Oza(OD)-->
+    <!--        -->
+
+</shape>
+
+
+
+mainback.xml
+
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+<gradient
+    android:startColor="#fe7062"
+    android:centerColor="#ff5c61"
+    android:endColor="#fc3f61"
+    android:angle="225"
+    android:useLevel="true"/>
+
+    <!--        Made By Divyam Oza(OD)-->
+    <!--        -->
+
+</shape>
