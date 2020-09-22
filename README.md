@@ -17,5 +17,6 @@ Add this line in inside application tag
 <application
 android:usesCleartextTraffic="true"
 </application>
-![alt text](http://url/to/img.png)
+![alt text]
+(http://url/to/img.png)
 
